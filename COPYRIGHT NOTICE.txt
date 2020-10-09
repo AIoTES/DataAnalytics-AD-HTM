@@ -1,0 +1,48 @@
+ACTivating InnoVative IoT smart living environments for AGEing well
+This project has received funding from the European Union's Horizon 2020
+research and innovation programme under grant agreement No 732679
+
+HTM anomaly detection 
+
+Copyright 2017-2020 Fraunhofer Institute for Computer Graphics Research IGD
+
+
+I. Used Software
+
+This product uses the following software libraries with corresponding licenses:
+
+| Dependency		 	| License  
+| -------- 				| --------  
+| Google Gson     		| Apache License 2.0 
+| Jersey Glassfish     	| ECLIPSE PUBLIC LICENSE Versionn 2.0, GNU General Public License Version 2
+| MongoDb driver     	| Apache License 2.0 
+| hamcrest 				| BSD-3-Clause 
+| mockito 				| MIT License 
+| org.json     			| own JSON License    
+| powermock 			| Apache License 2.0 
+| jsonwebtoken 			| Apache License 2.0 
+| javax 				| CDDL 1.1, GPL 2.0 
+| joda-time 			| Apache License 2.0 
+| trove4j 				| LGPL 2.0 
+| reactivex 			| Apache License 2.0 
+| cedarsoftware 		| Apache License 2.0 
+| org.openjdk.jmh 		| GPL 2.0 
+| ruedigermoeller 		| Apache License 2.0 
+| org.numenta.htm.java  | AGPL 3.0 
+| io.swagger 			| Apache License 2.0 
+| powermock 			| Apache License 2.0 
+| log4j     			| Apache License 2.0 
+| jjwt     				| Apache License 2.0 
+| apache jena  			| Apache License 2.0 
+  
+II. License Summary
+
+ - Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0.txt)
+ - MIT License (https://spdx.org/licenses/MIT.html)
+ - ECLIPSE PUBLIC LICENSE Versionn 2.0 (
+ - BSD-3-Clause (https://opensource.org/licenses/BSD-3-Clause)
+ - GPL 2.0 (https://opensource.org/licenses/GPL-2.0)
+ - AGPL 3.0  (https://www.gnu.org/licenses/agpl-3.0.html)
+ - JSON License (https://github.com/stleary/JSON-java/blob/master/LICENSE) 
+ - CDDL 1.1 (https://github.com/javaee/javax.annotation/blob/master/LICENSE)
+ 
